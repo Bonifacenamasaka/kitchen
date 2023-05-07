@@ -12,7 +12,7 @@ This is an app that enables students and staff at TUK to order food from the kit
 </tr>
 </table>
 
-#### Authorss
+#### Authors
 
 By Boniface Sitati.
 
