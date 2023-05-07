@@ -8,6 +8,8 @@
 <tr>
 <td>
 This is an app that enables students and staff at TUK to order food from the kitchen app and have it delivered to their classes or offices, or be ready for pick-up.
+
+Incase of any update you can fork the repo.
 </td>
 </tr>
 </table>
